@@ -54,7 +54,7 @@ const NavLeft: React.FC = () => {
         </NavLink> */}
         <Menu
             onClick={onClick}
-            style={{ width: 225 }}
+            style={{ width: 318 }}
             defaultSelectedKeys={['1']}
             defaultOpenKeys={['sub1']}
             mode="inline"

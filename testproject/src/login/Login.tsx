@@ -9,7 +9,7 @@ const Login: React.FC = () => {
   };
 
   return (
-    <Form  style={{ width: 500, marginTop:300, marginLeft:300 }}
+    <Form  style={{ width: 500, marginTop:300, marginLeft:700 }}
       name="normal_login"
       className="login-form"
       initialValues={{ remember: true }}
